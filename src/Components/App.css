@@ -1,0 +1,11 @@
+.addContact {
+  margin-top: 5rem;
+}
+i.sIcon {
+  float: right;
+  cursor: pointer;
+  font-size: 18px;
+}
+.ui.celled.list>.item.contactList {
+  padding: 1.5rem 0.5rem;
+}
